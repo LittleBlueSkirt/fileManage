@@ -2,9 +2,9 @@
 
 下载Nextcloud并解压到Nginx的网站根目录（通常是 /var/www/html）：
 
-···bash
+```bash
 wget https://download.nextcloud.com/server/releases/latest.tar.bz2
 tar -xjf latest.tar.bz2
 rm latest.tar.bz2
-···
+```
 
